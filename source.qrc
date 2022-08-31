@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/ssi-logo-medium.png</file>
+  </qresource>
+</RCC>
